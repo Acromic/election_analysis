@@ -6,6 +6,7 @@ Additional data requested by the election commission to complete an audit.
 
 ## Election-Audit Results:
 * How many votes were cast in this congressional election?
+![][resource_images/election_results.png]
 
 * Breakdown of the number of votes and the percentage
   of total votes for each county in the precinct.
