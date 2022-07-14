@@ -1,4 +1,4 @@
-# Overview of Election Audit:
+# Overview of Election Audit ::ballot_box:
 Additional data requested by the election commission to complete an audit.
 * Voter turnout for each county
 * Percentage of votes from each county out of the total count
